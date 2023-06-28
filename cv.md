@@ -1,5 +1,5 @@
-![icon-image](/pictures/icon_photo.png)
-# Kseniya Andrusenko
+![icon-image](/pictures/photo-icon.jgp)
+# Kseniya Anrusenko
 
 ### Junior Frontend Developer
 
@@ -45,6 +45,9 @@ function countSheeps(arrayOfSheep) {
   
   return count;
 }
+
+const sheep = [true, false, true, true, false, true];
+console.log(countSheeps(sheep)); // Output: 4
 ```
 
 ## Education 
