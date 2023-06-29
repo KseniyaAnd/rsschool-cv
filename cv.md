@@ -1,4 +1,4 @@
-![icon-image](/pictures/photo-icon.jgp)
+![icon-image](/pictures/photo-icon.png)
 # Kseniya Anrusenko
 
 ### Junior Frontend Developer
