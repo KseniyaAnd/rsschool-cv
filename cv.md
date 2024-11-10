@@ -35,3 +35,11 @@ function reverseWords(str) {
   return reversedWords.join(' ');
 }
 ```
+
+## Courses:
+
+-   [RS Schools Course «JavaScript/Front-end. Stage 0»](https://app.rs.school/certificate/4oua8nfe) (completed)
+
+-   [UDEMY Course «Complete course on javascript + react - from scratch to results»](https://www.udemy.com/certificate/UC-bb85226a-02b6-4817-a508-5c9562e6524e/) (completed)
+
+-   [RS Schools Course «JavaScript/Front-end. Stage 1»](https://rs.school/courses/javascript-ru) (in progress)
