@@ -19,3 +19,19 @@ I am a motivated and detail-focused Junior Frontend Developer with expertise in 
 -   Git, GitHub, Bitbucket
 -   VS Code, WebStorm
 -   Figma, Ms Office, Trello
+
+## Code example:
+
+**Instructions:** Complete the function that accepts a string parameter, and reverses each word in the string. All spaces in the string should be retained.
+
+**Examples:** <br>
+"This is an example!" ==> "sihT si na !elpmaxe"<br>
+"double spaces" ==> "elbuod secaps"<br>
+
+```
+function reverseWords(str) {
+  let words = str.split(' ');
+  let reversedWords = words.map(word => word.split('').reverse().join(''));
+  return reversedWords.join(' ');
+}
+```
